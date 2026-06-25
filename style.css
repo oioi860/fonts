@@ -11,3 +11,13 @@
     font-weight: 400;
     font-style: normal;
 }
+
+/* Заголовки */
+.hero-title .tn-atom {
+    font-family: 'IgraSans' !important;
+}
+
+/* Обычный текст */
+.hero-text .tn-atom {
+    font-family: 'HelveticaCustom' !important;
+}
